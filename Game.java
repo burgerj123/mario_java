@@ -1,9 +1,3 @@
-/*
-Name: Jackson Burger
-Assignment: Assignment 2
-Description: Turtle Graphics
-*/
-
 import javax.swing.JFrame;
 import java.awt.Toolkit;
 
