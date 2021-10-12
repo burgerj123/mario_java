@@ -1,9 +1,3 @@
-/*
-Name: Jackson Burger
-Assignment: Assignment 2
-Description: Turtle Graphics
-*/
-
 import java.awt.event.MouseListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.ActionListener;
